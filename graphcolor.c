@@ -1,5 +1,5 @@
 #include<stdio.h>
-int m,x[]={0,0,0,0},G[50][50];
+int m,x[50],G[50][50];
 void print(int x[], int n)
 {
     for(int i=1;i<=n;i++)
